@@ -1,0 +1,2 @@
+# A churn model using neural networks
+The model is created using Keras library in python. 
